@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/3-column-preview-card-component/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/3-column-preview-card-component/)
 
 ## My process
 
